@@ -1,0 +1,4 @@
+C:\Users\jdleo\Desktop\Estrcutrua de datos\practica5\obj\Debug\net8.0\practica5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jdleo\Desktop\Estrcutrua de datos\practica5\obj\Debug\net8.0\practica5.AssemblyInfoInputs.cache
+C:\Users\jdleo\Desktop\Estrcutrua de datos\practica5\obj\Debug\net8.0\practica5.AssemblyInfo.cs
+C:\Users\jdleo\Desktop\Estrcutrua de datos\practica5\obj\Debug\net8.0\practica5.csproj.CoreCompileInputs.cache
